@@ -1,1 +1,2 @@
 Welcome to ITCA Training!
+Welcome to EPAM COE JAVA Training!
